@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Movie Database Website",
+        "description": "This website was created for a web development course I took at Carleton. It has a Node.js server, stores and uses data from a MongoDB database I created using open-soruce data. It also maintains a JSON REST API which allows GET and POST requests to the database. ",
+        "technologies": [
+            "Node.js",
+            "MongoDB",
+            "Mongoose",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "link": "https://moviedb-uiuk.onrender.com/",
+        "purpose": "school",
+        "repo": "https://github.com/helen-mathew/MovieDB"
+    },
+    {
+        "title": "HeartWave Simulator",
+        "description": "This was the final course project for COMP 3004: Object-Oriented Software Engineering. I worked with 3 other team members to create a heart rate detector simulator. The device monitors the heart rate variability (HRV) of the simulated heart rate graph, and displays the key metrics like the coherence level.",
+        "technologies": ["C++", "QT"],
+        "purpose": " school"
+    }
+]
